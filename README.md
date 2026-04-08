@@ -4,8 +4,6 @@ Character-level language models built from scratch — from bigram counting to a
 
 Followed Andrej Karpathy's [Makemore lecture series](https://github.com/karpathy/makemore) (Parts 1–5).
 
-> **Note:** These notes were [approved by Andrej Karpathy himself](https://twitter.com/karpathy/status/1594537380144623616).
-
 ## Quick Start
 
 ```bash
